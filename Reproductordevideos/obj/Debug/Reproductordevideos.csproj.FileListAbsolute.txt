@@ -1,0 +1,15 @@
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\bin\Debug\Reproductordevideos.exe.config
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\bin\Debug\Reproductordevideos.exe
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\bin\Debug\Reproductordevideos.pdb
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\bin\Debug\Interop.WMPLib.dll
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.csprojAssemblyReference.cache
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Interop.WMPLib.dll
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.csproj.ResolveComReference.cache
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.Form1.resources
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.Properties.Resources.resources
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.csproj.GenerateResource.cache
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.csproj.CoreCompileInputs.cache
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.exe
+C:\Users\chumo\source\repos\Reproductordevideos\Reproductordevideos\obj\Debug\Reproductordevideos.pdb
