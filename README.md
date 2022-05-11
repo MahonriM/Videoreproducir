@@ -1,2 +1,2 @@
 # Videoreproducir
-Programa hecho en C# con windows forms que reproduce videos le envias la direccion del video y la reproduce.Program made with C# and windows forms and play videos you give the directory where the video is and then reproduce the video
+Programa hecho en C# con windows forms que reproduce videos le envias la direccion del video y la reproduce.In this program made with C# and windows forms. This program can play videos. You have to give the directory from the video and then this reproduce the video.
